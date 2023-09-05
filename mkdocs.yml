@@ -1,0 +1,21 @@
+site_name: Aplicações de Redes de Computadores 
+language: pt
+
+repo_name: ifrn-lab/apr-2023-2
+repo_url: https://marrigabi.github.io/apr-2023-2/
+edit_url: edit/main/docs
+
+
+theme:
+name: material
+
+nav:
+- index.md
+- papel.md
+- pedra.md
+- tesoura.md 
+-Ensaios:
+- ensaios/mermaid.md
+
+plugins:
+- mermaid2
